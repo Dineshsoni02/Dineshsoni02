@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dineshsoni02
+- 👋 Hi, I’m Dinesh Kumar
 
 
 <!---
