@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Dineshsoni02
-- 👀 I’m interested in Frontend developing.
-- 🌱 I’m currently learning reactJS.
-- 💞️ I’m looking to collaborate on python.
 
 
 <!---
